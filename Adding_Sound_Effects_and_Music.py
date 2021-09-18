@@ -35,7 +35,7 @@ score = 0
 #define colours
 white = (255, 255, 255)
 blue = (0, 0, 255)
-
+world_data = []
 
 #load images
 sun_img = pygame.image.load('img/sun.png')
